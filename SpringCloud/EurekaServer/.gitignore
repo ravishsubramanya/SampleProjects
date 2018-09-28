@@ -23,3 +23,15 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
